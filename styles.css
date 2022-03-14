@@ -33,3 +33,18 @@
     color: white;
     padding: 0px 20px;
 }
+
+.content {
+    padding: 20px 20px;
+    font-size: larger;
+}
+
+.fotoleft {
+    float: left;
+    padding: 20px 20px;
+}
+
+.fotoright {
+    float: right;
+    padding: 20px 20px;
+}
